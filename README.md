@@ -48,6 +48,14 @@ YouTube Video Downloader is a web application built on the Laravel framework tha
     ```bash
    php artisan serve
 
+## Output
+- Once the development server is running, open your web browser and navigate to the URL provided by the php artisan serve command.
+- You will see the YouTube Video Downloader interface.
+- In the input field provided, enter the URL of the YouTube video you want to download.
+- Click the "Download" button.
+- The application will process the video and provide you with a download link.
+- Click the download link to save the video to your device.
+
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
