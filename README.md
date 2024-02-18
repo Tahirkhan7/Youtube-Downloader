@@ -65,5 +65,5 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 ---
 
 Connect with me on:
-- [Instagram](https://www.instagram.com/taahirkhann){:target="_blank"}
-- [LinkedIn](https://i.imgur.com/hEJ1z3b.png)](https://www.linkedin.com/tahirkhan7){:target="_blank"}
+- <a href="https://www.instagram.com/your-instagram-profile" target="_blank"><img src="https://i.imgur.com/5vN1lRx.png" alt="Instagram"></a>
+- <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank"><img src="https://i.imgur.com/hEJ1z3b.png" alt="LinkedIn"></a>
