@@ -61,3 +61,9 @@ YouTube Video Downloader is a web application built on the Laravel framework tha
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+---
+
+Connect with me on:
+- [Instagram](https://www.instagram.com/taahirkhann)
+- [LinkedIn](https://www.linkedin.com/in/tahirkhan7)
