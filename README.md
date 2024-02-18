@@ -20,3 +20,30 @@ YouTube Video Downloader is a web application built on the Laravel framework tha
 
    ```bash
    git clone https://github.com/Tahirkhan7/Youtube-Downloader.git
+
+2. Install dependencies:
+
+   ```bash
+   composer install
+
+3. Set up your environment configuration by copying the .env.example file to .env:
+
+    ```bash
+   cp .env.example .env
+
+4. Generate an application key:
+
+   ```bash
+   php artisan key:generate
+
+5. Configure your database settings in the .env file
+
+6. Run migrations:
+
+    ```bash
+   php artisan migrate
+
+7. Start the development server:
+
+    ```bash
+   php artisan serve
