@@ -65,5 +65,14 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 ---
 
 Connect with me on:
-- <a href="https://www.instagram.com/your-instagram-profile" target="_blank"><img src="https://i.imgur.com/5vN1lRx.png" alt="Instagram"></a>
-- <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank"><img src="https://i.imgur.com/hEJ1z3b.png" alt="LinkedIn"></a>
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
