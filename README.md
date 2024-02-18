@@ -56,7 +56,7 @@ YouTube Video Downloader is a web application built on the Laravel framework tha
 - The application will process the video and provide you with a download link.
 - Click the download link to save the video to your device.
 
-![YouTube Downloader Output](publicc/ytd.png)
+![YouTube Downloader Output](public/ytd.png)
 
 ## License
 
