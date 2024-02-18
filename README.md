@@ -56,6 +56,8 @@ YouTube Video Downloader is a web application built on the Laravel framework tha
 - The application will process the video and provide you with a download link.
 - Click the download link to save the video to your device.
 
+![Laravel Logo](https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg)
+
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
